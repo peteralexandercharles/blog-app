@@ -25,7 +25,7 @@ SECRET_KEY = 'xumb#0)o=xt12b61ojg-5^*sg_yr8mxv88j(sflt0eax+)2edi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
